@@ -1,0 +1,12 @@
+{
+  "name": "02-meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "RogerCarvalho",
+  "type": "commonjs",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
